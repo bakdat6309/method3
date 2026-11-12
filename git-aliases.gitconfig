@@ -1,3 +1,8 @@
+[core]
+	editor = code --wait
+[user]
+	email = bakdatbakdatov@gmail.com
+	name = Bakdat
 [alias]
 	s = status --short
 	l = log --oneline --graph --decorate --all
